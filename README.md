@@ -8,7 +8,7 @@
 
 
 ### Essential Knowledge
-- `Basic Financial Accounting`: You need a deep understanding of standard frameworks (like GAAP or IFRS). You must know how financial statements (`Balance Sheets`, `Income Statements`, and `Cash Flow Statements`) are built to recognize when they are being manipulated.
+- `Basic Financial Accounting`: You need a deep understanding of standard frameworks (like GAAP or IFRS). You must know how financial statements ([Balance Sheets](https://www.smartsheet.com/sites/default/files/2025-05/IC-Balance-Sheet-Template-12375_Example.png), [Income Statements](https://cdn.vertex42.com/ExcelTemplates/Images/income-statement_screenshot.gif), and [Cash Flow Statements](https://cdn.vertex42.com/ExcelTemplates/Images/cash-flow-statement-template.png)) are built to recognize when they are being manipulated.
 - `Forensic Data Analysis & Ledgers`: You must be able to navigate complex ERP systems (like SAP or Oracle) and dig into raw General Ledgers, Journal Entries, and Trial Balances to spot anomalies.
 
 |Tools|Description|
