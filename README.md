@@ -18,7 +18,7 @@
 |SAS Fraud Management |A sophisticated fraud detection system that uses AI to analyze transaction & prevent in banking & financial institutions|
 
 - `Internal Control Frameworks`: You need to understand how business processes are designed so you can identify weak points where embezzlement or fraud could bypass oversight.
-- `Auditing Standards`: You must be familiar with standard auditing procedures (like sampling, verification, and substantive testing) before you can apply the heightened skepticism required for a forensic audit.
+- `Auditing Standards`: You must be familiar with standard auditing procedures (like `sampling`, `verification`, and `substantive testing`) before you can apply the heightened skepticism required for a forensic audit.
 
 
 
