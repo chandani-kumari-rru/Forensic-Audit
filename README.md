@@ -20,7 +20,10 @@
 - `Internal Control Frameworks`: You need to understand how business processes are designed so you can identify weak points where embezzlement or fraud could bypass oversight.
 - `Auditing Standards`: You must be familiar with standard auditing procedures (like `sampling`, `verification`, and `substantive testing`) before you can apply the heightened skepticism required for a forensic audit.
 
-
+# Recommendation
+|Topic|Refer|
+|---|---|
+|Fraud Triangle: Art of Forensic Accounting & Investigation|[YouTube](https://youtu.be/jW5m2mxy-q0?si=elt9CFhUUZU69Kza)|
 
 
 
